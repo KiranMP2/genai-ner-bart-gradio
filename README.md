@@ -104,8 +104,8 @@ demo.launch(share=True, server_port=int(os.environ['PORT4']))
 ```
 ### OUTPUT:
 #### Output 1:
-
+![o1](o1.png)
 #### Output 2:
-
+![o2](o2.png)
 ### RESULT:
 To develop a prototype application for Named Entity Recognition (NER) by leveraging a fine-tuned BART model and deploying the application using the Gradio framework for user interaction and evaluation excuted successfully.
